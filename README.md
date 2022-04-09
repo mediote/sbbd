@@ -10,10 +10,11 @@
 |---|---|
 | Crawling on Twitter API, text pre-processing and Topic modeling with BERTopic  | [![Open on Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mediote/sbbd/blob/main/sbbd.ipynb)  |
 | Utils  | [![Open on Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mediote/sbbd/blob/main/utils.ipynb)  |
-| Streamlit App for data Crawling on Twitter API  | [![Open on Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://share.streamlit.io/mediote/sbbd/main/app.py)  |
+| Streamlit App for data Crawling on Twitter API  | [![Open on Colab](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/mediote/sbbd/main/app.py)  |
 
 
-https://share.streamlit.io/mediote/sbbd/main/app.py
+
+
 
 # Como os posicionamentos sobre a campanha de vacinação nos EUA evoluem com o tempo?
 
