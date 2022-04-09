@@ -1,11 +1,11 @@
 
-from dotenv import load_dotenv
+#from dotenv import load_dotenv
 import streamlit as st
 import pandas as pd
 import requests
 import json
 import time
-import os
+#import os
 
 
 class TwitterHook():
