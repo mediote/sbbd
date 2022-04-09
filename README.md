@@ -1,4 +1,8 @@
-
+[![PyPI - Python](https://img.shields.io/badge/python-v3.6+-blue.svg)](https://pypi.org/project/bertopic/)
+[![BERTopic](https://img.shields.io/badge/BERtopic-v0.9%20-brightgreen)](https://github.com/MaartenGr/BERTopic)
+[![PyPI - License](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/mediote/twAnalytics/blob/main/LICENSE)
+[![Lattes](https://img.shields.io/badge/Lattes-CNPq-blueviolet)](http://lattes.cnpq.br/2455024624300452)
+[![SBBD](https://img.shields.io/badge/SBBD-2021-green)](https://sbbd.org.br/2021/)
 
 ## Colab 
 
