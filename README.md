@@ -26,7 +26,7 @@
   <li>Como os argumentos evoluem com o decorrer da vacinação?</li>
 </ol>	
 
-## Coleta e pré-processamento
+## Seleção, Transformação, Pré-processamento e Mineração
 
 <ol>
   <li>Coleta na TwitterApi pelos TERMOS vacina e vacinação usando geolocalização.</li>
