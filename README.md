@@ -14,19 +14,17 @@
 
 
 
+## Entendimento do negócio e dados
 
+### RQ1: Como os posicionamentos sobre a campanha de vacinação nos EUA evoluem com o tempo?
+### RQ2: Quais os principais argumentos usados para defender cada posicionamento?
+### RQ3: Como os argumentos evoluem com o decorrer da vacinação?
 
-# Como os posicionamentos sobre a campanha de vacinação nos EUA evoluem com o tempo?
+## Coleta e pré-processamento
 
-
-## provaxxer
-## antivaxxer
-
-
-# COLETA / SEPARAÇÃO GRUPOS
-# 1: Pesquisei por TERMOS vacina e vacinação no periodo usando geolocalização ( OMS definiu status de pandemia até ontem - 11/03/2020 até 06/04/2022).
-# 2: Extrai as hashtags que claramente indicam o alvo.
-# 3: Coleta individual para cada hashtag.
+### 1: Pesquisei por TERMOS vacina e vacinação no periodo usando geolocalização ( OMS definiu status de pandemia até ontem - 11/03/2020 até 06/04/2022).
+### 2: Extrai as hashtags que claramente indicam o alvo.
+### 3: Coleta individual para cada hashtag.
 
 
 # Pré=processamento
