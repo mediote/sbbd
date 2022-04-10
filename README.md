@@ -29,7 +29,11 @@
   <li>Pré-processamento de texto</li>
 </ol>	
 
+## Detecção de Posicionamentos
 
+## Modelagem de Tópicos 
+
+## Resultados
 
 #Pro-vaxxers
     #getvaccinated - 1075
