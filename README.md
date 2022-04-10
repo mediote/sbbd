@@ -26,7 +26,7 @@
   <li>Como os argumentos evoluem com o decorrer da vacinação?</li>
 </ol>	
 
-## Seleção, Transformação, Pré-processamento e Mineração
+## Seleção, Transformação, Pré-processamento e Mineração (KDD)
 
 <ol>
   <li>Coleta na TwitterApi pelos TERMOS vacina e vacinação usando geolocalização.</li>
