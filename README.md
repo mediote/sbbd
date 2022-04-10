@@ -33,11 +33,9 @@
   <li>Extração das 3 hashtags mais frequêntes que claramente indicam o alvo.</li>
   <li>Coleta individual para cada hashtag.</li>
   <li>Pré-processamento de texto.</li>
+  <li>Modelagem de topicos.</li>
   <li>Resultados preliminares.</li>
 </ol>	
 
-## Detecção de Posicionamentos
 
-## Modelagem de Tópicos 
-
-## Resultados
+## Interpretação dos Resultados
