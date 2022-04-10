@@ -34,12 +34,3 @@
 ## Modelagem de Tópicos 
 
 ## Resultados
-
-#Pro-vaxxers
-    #getvaccinated - 1075
-    #vaccineswork - 874
-    #vaccinessavelives - 757
-#Anti-vaxxers
-    #novaccine - 37
-    #novaccineforme - 32
-    #novaccinepassports - 26
