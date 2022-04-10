@@ -19,8 +19,8 @@
 
 
 <ol>
-  <li>Usar dados Twitter pára entender a dinâmica da pandemia.</li>
-  <li>Viéses e geolização</li>
+  <li>Usar dados Twitter para entender a dinâmica da pandemia.</li>
+  <li>Vieses e geolização</li>
   <li>Como os posicionamentos sobre a campanha de vacinação nos EUA evoluem com o tempo?</li>
   <li>Quais os principais argumentos usados para defender cada posicionamento?</li>
   <li>Como os argumentos evoluem com o decorrer da vacinação?</li>
