@@ -14,7 +14,13 @@
 
 ## Entendimento do negócio e dados
 
+### Entendendo os posicionamentos em relação vacinação nos EUA: uma análise temporal usando dados do Twitter
+
+
+
 <ol>
+  <li>Usar dados Twitter pára entender a dinâmica da pandemia.<li>
+  <li>Viéses e geolização<li>
   <li>Como os posicionamentos sobre a campanha de vacinação nos EUA evoluem com o tempo?</li>
   <li>Quais os principais argumentos usados para defender cada posicionamento?</li>
   <li>Como os argumentos evoluem com o decorrer da vacinação?</li>
