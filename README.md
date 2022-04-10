@@ -15,18 +15,18 @@
 ## Entendimento do negócio e dados
 
 <ol>
-  <li>RQ1: Como os posicionamentos sobre a campanha de vacinação nos EUA evoluem com o tempo?</li>
-  <li>RQ2: Quais os principais argumentos usados para defender cada posicionamento?</li>
-  <li>RQ3: Como os argumentos evoluem com o decorrer da vacinação?</li>
+  <li>Como os posicionamentos sobre a campanha de vacinação nos EUA evoluem com o tempo?</li>
+  <li>Quais os principais argumentos usados para defender cada posicionamento?</li>
+  <li>Como os argumentos evoluem com o decorrer da vacinação?</li>
 </ol>	
 
 ## Coleta e pré-processamento
 
 <ol>
-  <li>1: Coleta na TwitterApi por TERMOS vacina e vacinação usando geolocalização.</li>
-  <li>2: Extração das 5 hashtags mais frequêntes claramente indicam o alvo.</li>
-  <li>3: Coleta individual para cada hashtag.</li>
-  <li>4:Pré-processamento de texto</li>
+  <li>Coleta na TwitterApi por TERMOS vacina e vacinação usando geolocalização.</li>
+  <li>Extração das 5 hashtags mais frequêntes claramente indicam o alvo.</li>
+  <li>Coleta individual para cada hashtag.</li>
+  <li>Pré-processamento de texto</li>
 </ol>	
 
 
