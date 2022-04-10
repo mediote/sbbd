@@ -14,7 +14,7 @@
 
 ## Entendimento do negócio e dados
 
-### Entendendo os posicionamentos em relação vacinação nos EUA: uma análise temporal usando dados do Twitter
+### Entendendo os posicionamentos em relação a vacinação nos EUA: uma análise temporal usando dados do Twitter
 
 
 
