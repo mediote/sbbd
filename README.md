@@ -23,10 +23,10 @@
 ## Coleta e pré-processamento
 
 <ol>
-  <li>Coleta na TwitterApi por TERMOS vacina e vacinação usando geolocalização.</li>
+  <li>Coleta na TwitterApi pelos TERMOS vacina e vacinação usando geolocalização.</li>
   <li>Extração das 5 hashtags mais frequêntes que claramente indicam o alvo.</li>
   <li>Coleta individual para cada hashtag.</li>
-  <li>Pré-processamento de texto</li>
+  <li>Pré-processamento de texto.</li>
 </ol>	
 
 ## Detecção de Posicionamentos
