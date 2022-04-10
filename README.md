@@ -24,7 +24,6 @@
   <li>Como os posicionamentos sobre a campanha de vacinação nos EUA evoluem com o tempo?</li>
   <li>Quais os principais argumentos usados para defender cada posicionamento?</li>
   <li>Como os argumentos evoluem com o decorrer da vacinação?</li>
-  <li>Resultados preliminares.</li>
 </ol>	
 
 ## Coleta e pré-processamento
@@ -34,6 +33,7 @@
   <li>Extração das 3 hashtags mais frequêntes que claramente indicam o alvo.</li>
   <li>Coleta individual para cada hashtag.</li>
   <li>Pré-processamento de texto.</li>
+  <li>Resultados preliminares.</li>
 </ol>	
 
 ## Detecção de Posicionamentos
