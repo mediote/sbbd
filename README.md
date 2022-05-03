@@ -12,6 +12,8 @@
 | Utils  | [![Open on Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mediote/sbbd/blob/main/utils.ipynb)  |
 | Streamlit App for data Crawling on Twitter API  | [![Open on Colab](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/mediote/sbbd/main/app.py)  |
 | Hyperparameters Tuning | [![Open on Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mediote/sbbd/blob/main/hyperparameters_tuning.ipynb)  |
+| Stance Detection| [![Open on Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mediote/sbbd/blob/main/stances.ipynb)  |
+
 
 
 ## Entendimento do negócio e dados
