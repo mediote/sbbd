@@ -9,38 +9,10 @@
 | Códigos, ferramentas e notebooks  | Link  |
 |---|---|
 | Crawling on Twitter API, text pre-processing and Topic modeling with BERTopic  | [![Open on Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mediote/sbbd/blob/main/sbbd.ipynb)  |
-| Utils  | [![Open on Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mediote/sbbd/blob/main/utils.ipynb)  |
-| Streamlit App for data Crawling on Twitter API  | [![Open on Colab](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/mediote/sbbd/main/app.py)  |
-| Hyperparameters Tuning | [![Open on Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mediote/sbbd/blob/main/hyperparameters_tuning.ipynb)  |
-| Stance Detection| [![Open on Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mediote/sbbd/blob/main/stances.ipynb)  |
+(https://colab.research.google.com/github/mediote/sbbd/blob/main/hyperparameters_tuning.ipynb)  |
 
 
 
-## Entendimento do negócio e dados
+## Comparing for/against America and COVID in the United States of America and Brazil
 
-### Entendendo os posicionamentos em relação a vacinação nos EUA: uma análise temporal usando dados do Twitter
-
-
-
-<ol>
-  <li>Usar dados Twitter para entender a dinâmica da pandemia.</li>
-  <li>Desafios de se tabalhar com dados do Twitter: Vieses, falso-positivos, retweets e geolização.</li>
-
-  
-  <li>Quais os principais argumentos usados para defender cada posicionamento?</li>
-  <li>Como os argumentos evoluem com o decorrer da vacinação?</li>
-</ol>	
-
-## Seleção, Transformação, Pré-processamento e Mineração (KDD)
-
-<ol>
-  <li>Coleta na TwitterApi pelos TERMOS vacina e vacinação usando geolocalização.</li>
-  <li>Extração das 3 hashtags mais frequêntes que claramente indicam o alvo.</li>
-  <li>Coleta individual para cada hashtag.</li>
-  <li>Pré-processamento de texto.</li>
-  <li>Modelagem de topicos.</li>
-  <li>Resultados preliminares.</li>
-</ol>	
-
-
-## Interpretação dos Resultados
+The World Health Organization endorses vaccination as the most effective way to fight the COVID-19 pandemic, but hesitation to get vaccinated is a reality in many countries. This article develops a temporal study of stances for/against COVID-19 vaccination in the United States of America (USA), drawing a parallel with Brazil using data from Twitter. We conclude that the anti-vaccination movement in the US is more dominant in relation to Brazil. While there are many common elements between the two countries, the US population is more objective in defending their positions (health and safety versus individual freedom). In Brazil, we observe the population's anxiety about getting vaccinated and a political bias.The World Health Organization endorses vaccination as the most effective way to fight the COVID-19 pandemic, but hesitation to get vaccinated is a reality in many countries. This article develops a temporal study of stances for/against COVID-19 vaccination in the United States of America (USA), drawing a parallel with Brazil using data from Twitter. We conclude that the anti-vaccination movement in the US is more dominant in relation to Brazil. While there are many common elements between the two countries, the US population is more objective in defending their positions (health and safety versus individual freedom). In Brazil, we observe the population's anxiety about getting vaccinated and a political bias.
