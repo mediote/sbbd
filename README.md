@@ -4,19 +4,17 @@
 [![Lattes](https://img.shields.io/badge/Lattes-CNPq-blueviolet)](http://lattes.cnpq.br/2455024624300452)
 [![SBBD](https://img.shields.io/badge/SBBD-2022-green)](https://sbbd.org.br/2022/)
 
-## Colab 
-
-| Notebooks | Link  |
-|---|---|
-| Crawling on Twitter API, text pre-processing and Topic modeling with BERTopic  | [![Open on Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mediote/sbbd/blob/main/sbbd.ipynb)  |
-
-
 # Comparing for/against America and COVID in the United States of America and Brazil
 
 
 ## Abstract
 The World Health Organization endorses vaccination as the most effective way to fight the COVID-19 pandemic, but hesitation to get vaccinated is a reality in many countries. This article develops a temporal study of stances for/against COVID-19 vaccination in the United States of America (USA), drawing a parallel with Brazil using data from Twitter. We conclude that the anti-vaccination movement in the US is more dominant in relation to Brazil. While there are many common elements between the two countries, the US population is more objective in defending their positions (health and safety versus individual freedom). In Brazil, we observe the population's anxiety about getting vaccinated and a political bias.The World Health Organization endorses vaccination as the most effective way to fight the COVID-19 pandemic, but hesitation to get vaccinated is a reality in many countries. This article develops a temporal study of stances for/against COVID-19 vaccination in the United States of America (USA), drawing a parallel with Brazil using data from Twitter. We conclude that the anti-vaccination movement in the US is more dominant in relation to Brazil. While there are many common elements between the two countries, the US population is more objective in defending their positions (health and safety versus individual freedom). In Brazil, we observe the population's anxiety about getting vaccinated and a political bias.
 
+## Colab 
+
+| Notebooks | Link  |
+|---|---|
+| Crawling on Twitter API, text pre-processing and Topic modeling with BERTopic  | [![Open on Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mediote/sbbd/blob/main/sbbd.ipynb)  |
 
 ## Datasets
 
