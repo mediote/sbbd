@@ -22,7 +22,7 @@ Due to twitter information sharing policies, the data made available is anonymiz
 
 ## Citation
 
-To cite this reference in your work, please use the following bibtex reference:
+To cite this reference in your work, please use the following **BibTeX** reference:
 
 ```bibtex
 @inproceedings{sbbd,
