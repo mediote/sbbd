@@ -9,8 +9,6 @@
 | Notebooks | Link  |
 |---|---|
 | Crawling on Twitter API, text pre-processing and Topic modeling with BERTopic  | [![Open on Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mediote/sbbd/blob/main/sbbd.ipynb)  |
-(https://colab.research.google.com/github/mediote/sbbd/blob/main/hyperparameters_tuning.ipynb)  |
-
 
 
 # Comparing for/against America and COVID in the United States of America and Brazil
